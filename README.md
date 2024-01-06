@@ -21,18 +21,18 @@ CMD ["/usr/bin/shellinaboxd", "-t", "-s", "/:LOGIN"]
 
 更新系统：
 
-apt update
+//apt update//
 安装基础软件包
 
 
-apt install sudo curl wget nano screen git
+//apt install sudo curl wget nano screen git//
 安装neofetch工具
 
 
-sudo apt install neofetch
+//sudo apt install neofetch//
 清空终端窗口
 clear
 调用显示系统信息命令
-neofetch
+//neofetch//
 
 来源：https://www.youtube.com/watch?v=ajQo99FLYP4
